@@ -1,0 +1,4 @@
+#!/bin/bash
+backup_dir="demo1"
+source_dir="demo2"
+cp -r backup_dir source_dir 
